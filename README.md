@@ -32,4 +32,4 @@ Estimate product- and category-level price elasticity using simulated retail sal
 
 ## Scenario Output
 
-![Scenario Modeling Output](assets/scenario_output.png)
+![Scenario Modeling Output](assets/01_scenario_output.png)
