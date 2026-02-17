@@ -29,3 +29,7 @@ Estimate product- and category-level price elasticity using simulated retail sal
 4. `queries/02_feature_engineering.sql`
 5. `queries/03_elasticity_estimation.sql`
 6. `queries/04_price_increase_simulation.sql`
+
+## Scenario Output
+
+![Scenario Modeling Output](assets/scenario_output.png)
